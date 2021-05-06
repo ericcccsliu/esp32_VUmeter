@@ -136,7 +136,7 @@ void loop (){
     
     if (barHeight > height){
       barHeight = height + 1; 
-    } // self fucking explanatory 
+    } // self explanatory 
 
     barHeight = (oldBarHeights[band]+barHeight)/2; //average out
 
