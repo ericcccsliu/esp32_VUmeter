@@ -18,7 +18,7 @@
 #define amplitude              1000
 
 
-//number of fucking bands lmfao can't you even read
+//number of bands 
 #define bandNumber             12
 #define height                 12
 
