@@ -3,10 +3,6 @@
 #include <Adafruit_GFX.h>
 #include <Adafruit_NeoMatrix.h>
 #include <Adafruit_NeoPixel.h>
-#ifndef PSTR
- #define PSTR // Make Arduino Due happy // i don't even have an arduino due // but ok fine 
-#endif
-
 
 #define samples                1024
 #define samplingFrequency      40000  //experimentally determined 
